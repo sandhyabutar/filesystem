@@ -1,3 +1,4 @@
+//fs is a node module which is require for
 const fs =require("fs");
 
 // fs.writeFile("read.txt","today is awesome day :)",
